@@ -206,34 +206,3 @@ The pitch presentation deck is included here:
 ```text
 [SignalSutra_Pitch_Deck (1)  -  Repaired.pdf](https://github.com/user-attachments/files/28175993/SignalSutra_Pitch_Deck.1.-.Repaired.pdf)
 
-```
-
-Deck coverage:
-
-- Problem statement
-- Proposed approach
-- Hardware + software architecture
-- Quantum-inspired optimization logic
-- Demo workflow
-- Real-world impact
-- GitHub/codebase structure
-
----
-
-## GitHub upload
-
-This folder is GitHub-ready. After installing GitHub CLI and logging in, run one of these from the repo root:
-
-Windows PowerShell:
-
-```powershell
-.\scripts\create_github_repo.ps1 -RepoName signalsutra-traffic-optimizer
-```
-
-macOS/Linux:
-
-```bash
-bash scripts/create_github_repo.sh signalsutra-traffic-optimizer
-```
-
-Or upload using GitHub Desktop by creating a new repository from this folder.
