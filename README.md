@@ -201,10 +201,11 @@ integrations/elatoai/README.md
 
 ## Presentation deck
 
-The Phase 1 pitch deck is included here:
+The pitch presentation deck is included here:
 
 ```text
-presentation/SignalSutra_Pitch_Deck.pptx
+[SignalSutra_Pitch_Deck (1)  -  Repaired.pdf](https://github.com/user-attachments/files/28175993/SignalSutra_Pitch_Deck.1.-.Repaired.pdf)
+
 ```
 
 Deck coverage:
